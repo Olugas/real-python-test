@@ -44,7 +44,7 @@ sqlparse==0.3.1
 ssh2-python==0.18.0.post1
 textfsm==1.1.0
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.8
 wrapt==1.11.2
 xlrd==1.2.0
