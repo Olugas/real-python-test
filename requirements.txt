@@ -10,7 +10,7 @@ colorama==0.4.3
 cryptography==2.8
 distlib==0.3.0
 djangify==1.0.0
-Django==3.0.3
+Django==3.1.12
 easygui==0.98.1
 filelock==3.0.12
 future==0.18.2
